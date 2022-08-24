@@ -9,3 +9,6 @@
 
 
            Game criado com Javascript Puro
+
+
+![unknown_2022 08 24-16 25](https://user-images.githubusercontent.com/88260644/186516750-ef8cfd66-321e-4c57-b4f9-2298371258ae.gif)
